@@ -2,7 +2,7 @@
 
 # Introdução
 
-### Este projeto é uma implementação de uma API RESTful minimalista utilizando .NET 5.0, com integração ao banco de dados via Entity Framework Core, autenticação JWT Bearer e testes de integração utilizando xUnit.:
+### Este projeto é uma implementação de uma MinimalAPI RESTful utilizando .NET 5.0, com integração ao banco de dados via Entity Framework Core, autenticação JWT Bearer e testes de integração utilizando xUnit.:
 
 ### Principais Tecnologias e Funcionalidades:
 
@@ -23,9 +23,9 @@
 
 ### Objetivos:
 
-* Fornecer uma API simples, segura e eficiente para autenticação e gerenciamento de veículos.
+* Fornecer uma API simples, segura e eficiente para autenticação e gerenciamento de Usuários e cadastrar cursos.
 * Facilitar a integração com sistemas externos por meio de endpoints bem documentados no Swagger.
-* Demonstrar boas práticas de desenvolvimento utilizando .NET 6, EF Core e autenticação JWT.
+* Demonstrar boas práticas de desenvolvimento utilizando .NET, EF Core e autenticação JWT.
 
 Se precisar de ajuda com implementação ou ajustes, é só avisar!
 
@@ -41,8 +41,7 @@ Se precisar de ajuda com implementação ou ajustes, é só avisar!
 
 ## Requirements to run:
 
-- .Net5 
-
+- .Net 5
 - Database SqlServer
 * appsetting.json 
 ```
